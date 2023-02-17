@@ -32,3 +32,8 @@ body {
     height: 120px;
     width: 120px;
 }
+
+.main {
+    display: block;
+    height: 120px;
+}
